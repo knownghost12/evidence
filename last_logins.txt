@@ -1,0 +1,199 @@
+liam       ttys000                         Thu Jul 17 20:15   still logged in
+liam       console                         Thu Jul 17 20:15   still logged in
+reboot time                                Thu Jul 17 20:14
+reboot time                                Thu Jul 17 20:06
+liam       ttys000                         Tue Jul  8 11:47 - crash (9+08:18)
+liam       ttys000                         Tue Jul  8 11:46 - 11:46  (00:00)
+liam       ttys000                         Tue Jul  8 11:05 - 11:05  (00:00)
+liam       ttys000                         Tue Jul  8 03:35 - 03:35  (00:00)
+liam       console                         Tue Jul  8 03:31 - crash (9+16:34)
+reboot time                                Tue Jul  8 03:30
+shutdown time                              Tue Jul  8 02:56
+liam       console                         Tue Jul  8 02:56 - 02:56  (00:00)
+reboot time                                Tue Jul  8 02:49
+shutdown time                              Tue Jul  8 02:05
+liam       ttys000                         Mon Jul  7 18:51 - 18:51  (00:00)
+liam       ttys000                         Mon Jul  7 18:01 - 18:01  (00:00)
+liam       ttys000                         Mon Jul  7 18:00 - 18:00  (00:00)
+liam       ttys000                         Mon Jul  7 17:58 - 17:58  (00:00)
+liam       ttys000                         Mon Jul  7 17:47 - 17:47  (00:00)
+liam       ttys000                         Mon Jul  7 17:45 - 17:45  (00:00)
+liam       ttys000                         Mon Jul  7 17:27 - 17:27  (00:00)
+liam       console                         Mon Jul  7 17:22 - 02:05  (08:42)
+reboot time                                Mon Jul  7 15:25
+liam       ttys000                         Mon Jul  7 13:22 - 13:22  (00:00)
+liam       console                         Mon Jul  7 13:21 - 13:31  (00:09)
+reboot time                                Mon Jul  7 13:19
+shutdown time                              Mon Jul  7 13:19
+liam       ttys000                         Mon Jul  7 13:13 - 13:13  (00:00)
+liam       console                         Mon Jul  7 13:12 - 13:19  (00:06)
+reboot time                                Mon Jul  7 13:12
+shutdown time                              Mon Jul  7 11:42
+liam       ttys000                         Wed Jul  2 09:55 - 09:55  (00:00)
+liam       console                         Wed Jul  2 09:55 - 11:41 (5+01:46)
+reboot time                                Wed Jul  2 09:53
+shutdown time                              Wed Jul  2 09:53
+liam       ttys000                         Wed Jul  2 09:53 - 09:53  (00:00)
+liam       ttys000                         Wed Jul  2 09:46 - 09:46  (00:00)
+liam       ttys002                         Thu Jun 26 10:28 - 10:28  (00:00)
+liam       ttys002                         Thu Jun 26 10:27 - 10:27  (00:00)
+liam       console                         Thu Jun 26 02:07 - 09:53 (6+07:46)
+reboot time                                Thu Jun 26 02:06
+shutdown time                              Thu Jun 26 02:02
+liam       console                         Thu Jun 26 01:58 - 02:02  (00:03)
+reboot time                                Thu Jun 26 01:58
+shutdown time                              Thu Jun 26 01:12
+liam       ttys001                         Thu Jun 26 00:39 - 00:39  (00:00)
+liam       console                         Sun Jun 22 16:29 - 01:12 (3+08:42)
+reboot time                                Sun Jun 22 16:29
+shutdown time                              Sun Jun 22 13:14
+liam       ttys001                         Sun Jun 22 12:49 - 12:49  (00:00)
+liam       console                         Sat Jun 21 20:24 - 13:14  (16:49)
+reboot time                                Sat Jun 21 20:23
+shutdown time                              Fri Jun 20 22:27
+liam       console                         Fri Jun 20 22:21 - 22:27  (00:05)
+reboot time                                Fri Jun 20 22:20
+shutdown time                              Fri Jun 20 21:37
+liam       console                         Fri Jun 20 21:21 - 21:37  (00:15)
+reboot time                                Fri Jun 20 21:20
+shutdown time                              Fri Jun 20 20:10
+liam       ttys002                         Fri Jun 20 12:31 - 12:31  (00:00)
+liam       console                         Fri Jun 20 12:05 - 20:10  (08:05)
+reboot time                                Fri Jun 20 12:04
+shutdown time                              Fri Jun 20 07:20
+liam       ttys000                         Tue Jun 17 19:32 - 19:32  (00:00)
+liam       console                         Tue Jun 17 19:28 - 07:20 (2+11:51)
+reboot time                                Tue Jun 17 11:20
+shutdown time                              Mon Jun 16 23:42
+liam       console                         Mon Jun 16 23:38 - 23:42  (00:03)
+reboot time                                Mon Jun 16 23:37
+shutdown time                              Mon Jun 16 23:37
+liam       console                         Mon Jun 16 23:19 - 23:36  (00:17)
+reboot time                                Mon Jun 16 23:18
+shutdown time                              Mon Jun 16 23:18
+liam       console                         Mon Jun 16 22:23 - 23:18  (00:55)
+reboot time                                Mon Jun 16 22:22
+shutdown time                              Mon Jun 16 19:32
+liam       console                         Mon Jun 16 19:31 - 19:31  (00:00)
+reboot time                                Mon Jun 16 19:30
+shutdown time                              Mon Jun 16 16:44
+liam       console                         Mon Jun 16 10:31 - 16:44  (06:13)
+reboot time                                Mon Jun 16 10:30
+shutdown time                              Mon Jun 16 07:41
+liam       console                         Mon Jun 16 07:30 - 07:41  (00:11)
+reboot time                                Mon Jun 16 07:29
+shutdown time                              Mon Jun 16 00:18
+liam       console                         Mon Jun 16 00:10 - 00:18  (00:07)
+reboot time                                Sun Jun 15 23:57
+shutdown time                              Sun Jun 15 23:51
+liam       ttys000                         Sat Jun 14 02:40 - 02:40  (00:00)
+liam       console                         Fri Jun 13 18:02 - 23:51 (2+05:48)
+reboot time                                Fri Jun 13 18:01
+shutdown time                              Fri Jun 13 16:45
+liam       ttys000                         Wed Jun 11 21:05 - 21:05  (00:00)
+liam       ttys003                         Sat Jun  7 00:45 - 00:45  (00:00)
+liam       ttys000                         Fri Jun  6 11:32 - 11:32  (00:00)
+liam       ttys003                         Thu Jun  5 02:00 - 02:00  (00:00)
+liam       ttys004                         Thu Jun  5 01:56 - 01:56  (00:00)
+liam       ttys003                         Thu Jun  5 01:35 - 01:35  (00:00)
+liam       ttys002                         Wed Jun  4 23:58 - 23:58  (00:00)
+liam       ttys002                         Wed Jun  4 20:58 - 20:58  (00:00)
+liam       ttys000                         Mon Jun  2 23:34 - 23:34  (00:00)
+liam       console                         Mon Jun  2 23:34 - 16:45 (10+17:11)
+reboot time                                Mon Jun  2 23:31
+liam       ttys000                         Mon Jun  2 17:25 - crash  (06:05)
+liam       ttys000                         Mon Jun  2 17:20 - 17:20  (00:00)
+liam       console                         Mon Jun  2 15:35 - crash  (07:56)
+reboot time                                Mon Jun  2 15:34
+shutdown time                              Mon Jun  2 15:34
+liam       ttys000                         Sun Jun  1 14:47 - 14:47  (00:00)
+liam       ttys001                         Sat May 31 10:15 - 10:15  (00:00)
+liam       console                         Sat May 31 09:28 - 15:33 (2+06:05)
+reboot time                                Sat May 31 09:18
+shutdown time                              Sat May 31 01:53
+liam       ttys000                         Sat May 31 01:47 - 01:47  (00:00)
+liam       ttys000                         Fri May 30 17:13 - 17:13  (00:00)
+liam       ttys001                         Fri May 30 16:40 - 16:40  (00:00)
+liam       ttys000                         Fri May 30 12:46 - 12:46  (00:00)
+liam       ttys000                         Fri May 30 12:37 - 12:37  (00:00)
+liam       console                         Fri May 30 12:24 - 01:53  (13:29)
+reboot time                                Fri May 30 12:22
+shutdown time                              Thu May 29 21:06
+liam       ttys000                         Thu May 29 19:57 - 19:57  (00:00)
+liam       ttys000                         Thu May 29 18:42 - 18:42  (00:00)
+liam       ttys000                         Thu May 29 16:40 - 16:40  (00:00)
+liam       ttys000                         Thu May 29 16:25 - 16:25  (00:00)
+liam       ttys000                         Thu May 29 15:05 - 15:05  (00:00)
+liam       ttys000                         Wed May 28 21:50 - 21:50  (00:00)
+liam       ttys000                         Wed May 28 21:19 - 21:19  (00:00)
+liam       ttys000                         Tue May 27 22:36 - 22:36  (00:00)
+liam       ttys000                         Tue May 27 22:34 - 22:34  (00:00)
+liam       ttys000                         Tue May 27 22:33 - 22:33  (00:00)
+liam       ttys000                         Tue May 27 22:31 - 22:31  (00:00)
+liam       ttys000                         Tue May 27 22:26 - 22:26  (00:00)
+liam       ttys000                         Tue May 27 22:25 - 22:25  (00:00)
+liam       ttys000                         Tue May 27 22:24 - 22:24  (00:00)
+liam       ttys000                         Tue May 27 22:11 - 22:11  (00:00)
+liam       ttys000                         Mon May 26 15:57 - 15:57  (00:00)
+liam       ttys000                         Mon May 26 15:17 - 15:17  (00:00)
+liam       ttys000                         Mon May 26 14:45 - 14:45  (00:00)
+liam       ttys000                         Mon May 26 12:16 - 12:16  (00:00)
+liam       ttys000                         Mon May 26 12:13 - 12:13  (00:00)
+liam       ttys000                         Mon May 26 12:12 - 12:12  (00:00)
+liam       ttys002                         Sun May 25 15:16 - 15:16  (00:00)
+liam       ttys000                         Sun May 25 15:15 - 15:15  (00:00)
+liam       ttys002                         Sun May 25 15:13 - 15:13  (00:00)
+liam       ttys000                         Sat May 24 16:18 - 16:18  (00:00)
+liam       ttys001                         Sat May 24 15:05 - 15:05  (00:00)
+liam       ttys001                         Sat May 24 15:03 - 15:03  (00:00)
+liam       ttys000                         Sat May 24 14:41 - 14:41  (00:00)
+liam       ttys001                         Sat May 24 05:17 - 05:17  (00:00)
+liam       ttys000                         Sat May 24 04:54 - 04:54  (00:00)
+liam       console                         Sat May 24 04:53 - 21:06 (5+16:13)
+reboot time                                Sat May 24 04:53
+shutdown time                              Sat May 24 04:42
+liam       ttys000                         Sat May 24 04:38 - 04:38  (00:00)
+liam       ttys000                         Sat May 24 04:02 - 04:02  (00:00)
+liam       ttys000                         Sat May 24 03:57 - 03:57  (00:00)
+liam       ttys000                         Sat May 24 03:52 - 03:52  (00:00)
+liam       ttys000                         Sat May 24 03:50 - 03:50  (00:00)
+liam       ttys000                         Sat May 24 03:44 - 03:44  (00:00)
+liam       ttys000                         Sat May 24 03:19 - 03:19  (00:00)
+liam       ttys001                         Sat May 24 02:49 - 02:49  (00:00)
+liam       ttys001                         Sat May 24 02:02 - 02:02  (00:00)
+liam       ttys000                         Sat May 24 00:44 - 00:44  (00:00)
+liam       console                         Fri May 23 18:32 - 04:42  (10:10)
+reboot time                                Fri May 23 18:31
+liam       ttys001                         Fri May 23 15:56 - 15:56  (00:00)
+liam       ttys000                         Fri May 23 15:41 - 15:41  (00:00)
+liam       ttys001                         Fri May 23 15:26 - 15:26  (00:00)
+liam       ttys000                         Fri May 23 14:44 - 14:44  (00:00)
+liam       ttys001                         Fri May 23 13:47 - 13:47  (00:00)
+liam       ttys000                         Fri May 23 13:46 - 13:46  (00:00)
+liam       ttys000                         Fri May 23 13:24 - 13:24  (00:00)
+liam       ttys000                         Fri May 23 13:08 - 13:08  (00:00)
+liam       ttys000                         Fri May 23 12:46 - 12:46  (00:00)
+liam       ttys000                         Fri May 23 12:09 - 12:09  (00:00)
+liam       ttys000                         Fri May 23 11:39 - 11:39  (00:00)
+liam       ttys000                         Fri May 23 09:09 - 09:09  (00:00)
+liam       ttys000                         Fri May 23 08:58 - 08:58  (00:00)
+liam       console                         Thu May 22 12:46 - 16:37 (1+03:51)
+reboot time                                Thu May 22 12:46
+shutdown time                              Thu May 22 12:44
+liam       ttys001                         Wed May 21 23:18 - 23:18  (00:00)
+liam       ttys002                         Wed May 21 22:05 - 22:05  (00:00)
+liam       ttys001                         Wed May 21 22:04 - 22:04  (00:00)
+liam       console                         Wed May 21 16:12 - 12:44  (20:32)
+reboot time                                Wed May 21 16:11
+shutdown time                              Wed May 21 16:11
+liam       ttys001                         Tue May 20 14:41 - 14:41  (00:00)
+liam       console                         Tue May 20 13:02 - 16:11 (1+03:08)
+reboot time                                Tue May 20 13:01
+shutdown time                              Tue May 20 13:00
+liam       ttys001                         Mon May 19 19:39 - 19:39  (00:00)
+liam       ttys001                         Sat May 17 17:28 - 17:28  (00:00)
+liam       ttys000                         Sat May 17 11:18 - 11:18  (00:00)
+liam       console                         Sat May 17 10:18 - 13:00 (3+02:42)
+reboot time                                Sat May 17 10:16
+
+wtmp begins Sat May 17 10:16:15 WAT 2025
